@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-scope
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
