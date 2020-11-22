@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/arrays-ds/problem
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
