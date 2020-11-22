@@ -3,6 +3,15 @@
 import java.util.*;
 import java.io.*;
 
+class Calculator {
+    public int power(int n, int p) throws Exception {
+        if (n>=0 && p>=0) {
+            return (int)Math.pow(n, p);
+        } else {
+            throw new Exception("n and p should be non-negative");
+        }
+    }
+}
 
 class MoreExceptions{
 
@@ -24,15 +33,5 @@ class MoreExceptions{
             }
         }
         in.close();
-    }
-
-     static class Calculator {
-        public int power(int n, int p) throws Exception { //sto creando una nuova eccezione che potrebbe verificarsi
-          if (n>=0 && p>=0) {
-              return (int)Math.pow(n, p);
-          } else {
-              throw new Exception("n and p should be non-negative");
-          }
-        }
     }
 }
