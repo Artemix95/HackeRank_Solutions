@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-substring
+
 package java_strings;
 
 import java.io.*;
