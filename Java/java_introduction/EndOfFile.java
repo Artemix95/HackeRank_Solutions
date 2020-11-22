@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-end-of-file
+
 package java_introduction;
 
 import java.util.Scanner;
