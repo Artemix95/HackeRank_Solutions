@@ -1,4 +1,5 @@
-//Complete this code or write your own from scratch
+// https://www.hackerrank.com/challenges/30-dictionaries-and-maps
+
 import java.util.*;
 
 class DictionariesAndMaps{
