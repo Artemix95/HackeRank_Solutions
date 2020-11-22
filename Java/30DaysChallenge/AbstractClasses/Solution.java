@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-abstract-classes/
+
 package AbstractClasses;
 
 import java.util.*;
