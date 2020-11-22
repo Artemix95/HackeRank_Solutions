@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/inheritance/
+
 package inheritance;
 
 import java.util.*;
