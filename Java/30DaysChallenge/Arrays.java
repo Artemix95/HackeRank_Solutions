@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-arrays/
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
