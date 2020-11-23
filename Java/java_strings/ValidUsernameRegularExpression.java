@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/valid-username-checker/
+
 package java_strings;
 
 import java.util.Scanner;
